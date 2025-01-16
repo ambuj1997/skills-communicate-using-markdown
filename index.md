@@ -5,3 +5,5 @@
 ##### This Is a `<h5>` header 
 ###### This Is a `<h6>` header 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```javascript
+var myvar="Hello World";
